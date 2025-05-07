@@ -1,0 +1,27 @@
+HTML tages:
+<header>
+<nav>
+<div>
+<a>
+<button>
+<span>
+<ul>
+<li>
+<h1>
+<h2>
+<p>
+<main>
+<img>
+
+CSS properties:
+text-align
+fount-family
+font-size
+margin
+border
+border-radius
+background-color
+transition
+
+
+Usages of JavaScript and Bootstrap: JavaScript for loading effect in main pag when you click the buttons, and Bootstrap for navigation bar and windows.
